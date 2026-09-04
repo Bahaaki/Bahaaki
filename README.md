@@ -33,20 +33,20 @@ A results-driven Developer with hands-on experience at **Birsav**, building and 
 
 ---
 
-### 💼 Experience & Achievements
+### 💼 Experience & Key Highlights
 - 🚀 **Birsav (Mobile Developer & Team Lead):** Delivered 4+ cross-platform mobile apps for municipal administration and restaurant POS systems.
 - 🧪 **Automated Testing:** Implemented E2E, API, integration, and unit tests using Flutter Integration Tests, Cypress, and Jest.
-- 🎓 **Continuous Learning:** Completed the `<Code16>` Front-End Bootcamp by Kodluyoruz Academy & Bursa Metropolitan Municipality.
+- 🎓 **Certified Bootcamp Graduate:** Completed the `<Code16>` Front-End Web Development Bootcamp by Kodluyoruz Academy & Bursa Metropolitan Municipality.
 
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bahaaki&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmad's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bahaaki&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmad's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bahaaki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bahaaki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
