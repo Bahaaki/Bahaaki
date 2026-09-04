@@ -47,11 +47,6 @@ A results-driven Developer with hands-on experience at **Birsav**, building and 
     <img src="https://streak-stats.demolab.com?user=Bahaaki&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/Bahaaki">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bahaaki&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
 
 ---
 
