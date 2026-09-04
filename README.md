@@ -43,10 +43,14 @@ A results-driven Developer with hands-on experience at **Birsav**, building and 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bahaaki&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmad's GitHub Stats" />
+  <a href="https://github.com/Bahaaki">
+    <img src="https://streak-stats.demolab.com?user=Bahaaki&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bahaaki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/Bahaaki">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bahaaki&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
 </p>
 
 ---
