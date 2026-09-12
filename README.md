@@ -16,14 +16,13 @@ A results-driven Developer with hands-on experience at **Birsav**, building and 
 **Game Development (DeepDriller):**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unity 2D](https://img.shields.io/badge/Unity_2D-222222?style=for-the-badge&logo=unity&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Google AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
-![Git LFS](https://img.shields.io/badge/Git_LFS-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Game Engineering:**  
-C# gameplay systems · Unity 6 · URP 2D · Unity Input System · UGUI & TextMeshPro · 2D physics · particles and audio · Android/Gradle packaging · Google Mobile Ads · local progression · .NET verification harness
-  
+**Gameplay:** Unity 2D · physics · Input System · local progression  
+**Presentation:** URP 2D · UGUI & TextMeshPro · particles · audio
+
+**Web & Backend:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -35,15 +34,23 @@ C# gameplay systems · Unity 6 · URP 2D · Unity Input System · UGUI & TextMes
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Flutter Integration Tests](https://img.shields.io/badge/Flutter_Integration_Tests-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
+C#/.NET ad lifecycle checks with SDK test doubles.
+
 **Databases & Cloud:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & Version Control:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git LFS](https://img.shields.io/badge/Git_LFS-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+Android/Gradle build tooling.
 
 ---
 
 ### 💼 Experience & Key Highlights
+
 - 🚀 **Birsav (Mobile Developer & Team Lead):** Delivered 4+ cross-platform mobile apps for municipal administration and restaurant POS systems.
 - 🧪 **Automated Testing:** Implemented E2E, API, integration, and unit tests using Flutter Integration Tests, Cypress, and Jest.
 - 🎓 **Certified Bootcamp Graduate:** Completed the `<Code16>` Front-End Web Development Bootcamp by Kodluyoruz Academy & Bursa Metropolitan Municipality.
@@ -55,6 +62,7 @@ C# gameplay systems · Unity 6 · URP 2D · Unity Input System · UGUI & TextMes
 - 🚀 **[DeepDriller — Unity Android Game](https://github.com/Bahaaki/DeepDriller):** A portrait-mode drilling adventure built in C# and Unity. Implemented campaign progression, 2D physics, hazards, power-ups, artifacts, garage upgrades, multi-scene flow, Android packaging, and Google Mobile Ads integration. [Play the latest build on itch.io](https://deepdriller.itch.io/deepdriller).
 
 ---
+
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -66,6 +74,7 @@ C# gameplay systems · Unity 6 · URP 2D · Unity Input System · UGUI & TextMes
 ---
 
 ### 📫 Connect with Me
+
 - 💼 **LinkedIn:** [Ahmed Ajanjy](https://www.linkedin.com/in/ahmed-ajanjy-a02330211)
 - ✉️ **Email:** [Ahmad.3000.ajanjy@gmail.com](mailto:Ahmad.3000.ajanjy@gmail.com)
 - 📍 **Location:** Bursa, Türkiye
