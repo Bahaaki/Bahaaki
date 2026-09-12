@@ -44,7 +44,8 @@ A results-driven Developer with hands-on experience at **Birsav**, building and 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Flutter Integration Tests](https://img.shields.io/badge/Flutter_Integration_Tests-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-C#/.NET ad lifecycle checks with SDK test doubles.
+![C#/.NET Ad Lifecycle Checks](https://img.shields.io/badge/C%23%2F.NET_Ad_Lifecycle_Checks-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SDK Test Doubles](https://img.shields.io/badge/SDK_Test_Doubles-6A1B9A?style=for-the-badge)
 
 **Databases & Cloud:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -55,7 +56,9 @@ C#/.NET ad lifecycle checks with SDK test doubles.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git LFS](https://img.shields.io/badge/Git_LFS-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Android/Gradle build tooling.
+**Build Tooling:**  
+![Android Build](https://img.shields.io/badge/Android_Build-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ---
 
