@@ -19,8 +19,18 @@ A results-driven Developer with hands-on experience at **Birsav**, building and 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Google AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=google&logoColor=white)
 
-**Gameplay:** Unity 2D · physics · Input System · local progression  
-**Presentation:** URP 2D · UGUI & TextMeshPro · particles · audio
+**Gameplay:**  
+![Unity 2D](https://img.shields.io/badge/Unity_2D-000000?style=for-the-badge&logo=unity&logoColor=white)
+![2D Physics](https://img.shields.io/badge/2D_Physics-6B4FBB?style=for-the-badge&logo=unity&logoColor=white)
+![Unity Input System](https://img.shields.io/badge/Input_System-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Local Progression](https://img.shields.io/badge/Local_Progression-2E8B57?style=for-the-badge)
+
+**Presentation:**  
+![URP 2D](https://img.shields.io/badge/URP_2D-000000?style=for-the-badge&logo=unity&logoColor=white)
+![UGUI](https://img.shields.io/badge/UGUI-000000?style=for-the-badge&logo=unity&logoColor=white)
+![TextMeshPro](https://img.shields.io/badge/TextMeshPro-1E88E5?style=for-the-badge)
+![Particles](https://img.shields.io/badge/Particles-F57C00?style=for-the-badge)
+![Audio](https://img.shields.io/badge/Audio-8E44AD?style=for-the-badge)
 
 **Web & Backend:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
