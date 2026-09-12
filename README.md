@@ -89,5 +89,5 @@ A results-driven Developer with hands-on experience at **Birsav**, building and 
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Ahmed Ajanjy](https://www.linkedin.com/in/ahmed-ajanjy-a02330211)
-- ✉️ **Email:** [Ahmad.3000.ajanjy@gmail.com](mailto:Ahmad.3000.ajanjy@gmail.com)
+- ✉️ **Email:** [info.ajy16@gmail.com](mailto:info.ajy16@gmail.com)
 - 📍 **Location:** Bursa, Türkiye
